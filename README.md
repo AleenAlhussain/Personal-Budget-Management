@@ -15,7 +15,13 @@ I’m working on a **Personal Budget Management App** using **React.js**, **MUI*
 📊 **Financial Reports:**  
 - Pie charts for expense categories & income-to-expense comparison.  
 - Line charts for spending and income trends.  
-- Export income and expense reports to Excel, with customizable date ranges (using `exceljs`).  
+- Export income and expense reports to Excel, with customizable date ranges (using `exceljs`).
+  
+### Technologies Used
+  #### Front-end: React.js for dynamic UI and MUI for modern, responsive design.
+  #### State Management: Redux for robust data handling and state synchronization.
+  #### Routing: React Router v6 for navigation and page organization.
+  #### Data Export: ExcelJS library for creating downloadable Excel reports.
 
 Stay tuned for updates! 🔧💻  
 #BudgetApp #ReactJS #MUI #Redux
